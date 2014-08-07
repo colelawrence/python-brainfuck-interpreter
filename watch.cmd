@@ -1,0 +1,1 @@
+nodemon --exec python ./bf.py -- test-getch.bf
