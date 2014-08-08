@@ -1,4 +1,4 @@
-python-brainfuck-interpretter
+Python Brainfuck Interpreter
 =============================
 
 Interpret [brainfuck](http://en.wikipedia.org/wiki/Brainfuck) code programs with Python 3!
@@ -7,7 +7,7 @@ Interpret [brainfuck](http://en.wikipedia.org/wiki/Brainfuck) code programs with
 
 Just run:
 ```shell
-python bf.py <file name>
+python bf.py [file name]
 ```
 
 For example:
